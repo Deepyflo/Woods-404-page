@@ -23,4 +23,4 @@ At the end of this challenge you should be able to:
 
 ## Screenshots
 
-![capture](/img/capture.png)
+![capture](/img/Capture.png)
